@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Uslugi</string>
+    <string name="home_title">Uslugi для девушек</string>
+    <string name="home_subtitle">Выберите услугу и найдите студию рядом</string>
+    <string name="services_title">Популярные услуги и магазины</string>
+    <string name="search_hint">Поиск по названию или категории</string>
+    <string name="open_map">Карта</string>
+    <string name="open_profile">Профиль</string>
+    <string name="back">Назад</string>
+    <string name="book_service">Записаться</string>
+    <string name="add_review">Оставить отзыв</string>
+    <string name="add_review_title">Новый отзыв</string>
+    <string name="add_review_button">Добавить</string>
+    <string name="review_hint">Напишите, что понравилось</string>
+    <string name="reviews_title">Отзывы</string>
+    <string name="review_default_author">Вы</string>
+    <string name="review_today">Сегодня</string>
+    <string name="booking_title">Запись на услугу</string>
+    <string name="select_date">Выбрать дату</string>
+    <string name="select_time">Выбрать время</string>
+    <string name="date_not_selected">Дата не выбрана</string>
+    <string name="time_not_selected">Время не выбрано</string>
+    <string name="confirm_booking">Подтвердить запись</string>
+    <string name="booking_status_pending">Ожидает подтверждения</string>
+    <string name="booking_service_placeholder">Выбранная услуга</string>
+    <string name="profile_title">Профиль</string>
+    <string name="upcoming_bookings">Будущие записи</string>
+    <string name="history_bookings">История посещений</string>
+    <string name="map_content_description">Карта города с точками услуг</string>
+    <string name="google_maps_key">YOUR_API_KEY</string>
+</resources>
