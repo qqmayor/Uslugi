@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Uslugi</string>
+    <string name="home_title">Uslugi для девушек</string>
+    <string name="home_subtitle">Выберите услугу и найдите студию рядом</string>
+    <string name="services_title">Популярные услуги и магазины</string>
+    <string name="map_content_description">Карта города с точками услуг</string>
+    <string name="review_count">Отзывов: %1$d</string>
+    <string name="add_review">Оставить отзыв</string>
+    <string name="add_review_title">Новый отзыв</string>
+    <string name="add_review_button">Добавить</string>
+    <string name="review_hint">Напишите, что понравилось</string>
+    <string name="google_maps_key">YOUR_API_KEY</string>
+</resources>
